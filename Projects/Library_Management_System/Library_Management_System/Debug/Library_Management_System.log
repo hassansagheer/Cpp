@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++\Projects\Library_Management_System\Library_Management_System\Source.cpp(24,7): warning C4101: 'ch': unreferenced local variable
+  Library_Management_System.vcxproj -> D:\C++\Projects\Library_Management_System\Debug\Library_Management_System.exe
